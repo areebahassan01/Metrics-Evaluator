@@ -3,7 +3,7 @@ This script loads metrics data from a CSV file into a pandas DataFrame and calcu
 ## Requirements
 Python 3.6 or higher
 pandas library
-##Installation
+## Installation
 Download the script files from the GitHub repository.
 Install the required libraries using pip: pip install pandas
 ## Usage
