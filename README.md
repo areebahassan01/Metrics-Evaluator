@@ -4,7 +4,7 @@ This script loads metrics data from a CSV file into a pandas DataFrame and calcu
 Python 3.6 or higher
 pandas library
 ## Installation
-Download the script files from the GitHub repository.
+Download the script files.
 Install the required libraries using pip: pip install pandas
 ## Usage
 Place the metrics data CSV file in the same directory as the script files.
